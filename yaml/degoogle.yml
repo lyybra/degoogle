@@ -945,6 +945,14 @@ web based products:
         An open-source personal note-taking system that can run in the browser as a single HTML file
         or as a NodeJS application. It can be stored locally on a hard drive or removable drive,
         self-hosted on one's own server, or use various web-based storage options.
+    - name: Notesnook
+      url: https://notesnook.com/
+      eyes: null
+      text: >
+        A truly zero-knowledge note taking app with a focus on simplicity, speed while being 100%
+        cross-platform. Features a seamless cross-device sync, secure note publishing, and an epic
+        UI. Offered as a freemium with a $4.49 monthly subscription but the free version has a great
+        many features as well.
   music tv movies:
     - title: Play Music, Movies, & TV
     - notes:
